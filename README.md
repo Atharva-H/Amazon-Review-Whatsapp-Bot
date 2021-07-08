@@ -1,6 +1,7 @@
 #Amazon Review Request Whatsapp-Bot
 Whatapp Bot to send request for the Amazon product u sold on whatsapp.
 
+---------------------------------------------------------------------------------------------------
 For First time run following command in cmd of this folder
 
 pip install -r requirements.txt 
