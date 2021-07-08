@@ -19,3 +19,5 @@ pip install -r requirements.txt
 9.  Scan the QR code in whatsapp app.
 10. pless '~' key to start send the message.
 --------------------------------------------------------------------------------------------------- 
+
+Download the order report & be sure to add buyers mobile no. in the list of downloads.
